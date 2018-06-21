@@ -11,10 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class NetworkProviderController {
 	
-
-
-	
-	@RequestMapping(value="/hospitals",method=RequestMethod.GET)
+   @RequestMapping(value="/hospitals",method=RequestMethod.GET)
 	public String hospitals() {
 		System.out.println("hospitals");
 		return "hospitals";

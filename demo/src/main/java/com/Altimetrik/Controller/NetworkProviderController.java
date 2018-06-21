@@ -1,4 +1,4 @@
-package com.networkprovider.controller;
+package com.Altimetrik.Controller;
 
 import java.util.List;
 

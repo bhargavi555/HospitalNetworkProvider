@@ -1,4 +1,4 @@
-package com.Altimetrik.DAO;
+package com.Altimetrik.NetworkProvider.DAO;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
